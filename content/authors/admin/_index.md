@@ -58,7 +58,7 @@ education:
     institution: University of Oregon
     icon: ""
     date_start: 2023-09-16
-    date_end: Expected 2028
+    date_end: 2028-06-12
     
   - area: MA Linguistics
     institution: Northeastern Illinois University
