@@ -20,17 +20,9 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Tamaya I. Levy — Ph.D. Student in Linguistics specializing in speech production, emotional prosody, and neurolinguistics.'
     twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
-  verification:
-    google: ''
-    baidu: ''
+  
 
 # Site header
 header:
