@@ -40,7 +40,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:tamaya@uoregon.edu'
     label: E-mail Me
-  - icon: brands/'researchgate'
+  - icon: at-symbol
     url: https://www.researchgate.net/profile/Tamaya-Levy
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tamayalevy/
@@ -76,8 +76,8 @@ education:
     icon: ""
     date_start: 2015-08-26
     date_end: 2019-12-14
-
-      Minored in Linguistics. President of AI Club.
+    description: |
+      Minored in Linguistics.  
 
 work:
   - position: Senior AI Research Scientist
