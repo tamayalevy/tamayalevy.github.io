@@ -40,7 +40,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:tamaya@uoregon.edu'
     label: E-mail Me
-  - icon: brands/researchgate
+  - icon: brands/'researchgate'
     url: https://www.researchgate.net/profile/Tamaya-Levy
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tamayalevy/
