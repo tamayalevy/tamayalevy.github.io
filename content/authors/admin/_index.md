@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Tamaya I. Levy
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'tuh-my-uh lee-vee'
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Tamaya
+last_name: Levy
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🗣️
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,65 +23,57 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Ph.D. Student in Linguistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Oregon 
+    url: https://cas.uoregon.edu/directory/linguistics/all/tamaya
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:tamaya@uoregon.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Tamaya-Levy
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://www.linkedin.com/in/tamayalevy/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0008-3235-0001
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - African American English
+  - Sociophonetics
+  - Emotional Prosody
+  - Neurolinguistics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Linguistics
+    institution: University of Oregon
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2023-09-16
+    date_end: Expected 2028
+    
+  - area: MA Linguistics
+    institution: Northeastern Illinois University
+    icon: ""
+    date_start: 2021-05-24
+    date_end: 2023-05-13
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Lewis Gebhardt.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  - area: BA Political Science
+    institution: University of Illinois at Chicago
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+    date_start: 2015-08-26
+    date_end: 2019-12-14
 
-      Minored in Mathematics. President of AI Club.
+      Minored in Linguistics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
