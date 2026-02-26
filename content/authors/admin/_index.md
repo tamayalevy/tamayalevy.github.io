@@ -66,10 +66,10 @@ education:
     date_start: 2021-05-24
     date_end: 2023-05-13
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Lewis Gebhardt.
+      Thesis on _The Phonetics of Prejudice: Exploring Emotional and Racial Perceptions of African American Language and the 'Angry Black Woman' Stereotype_. Supervised by Prof. Lewis Gebhardt.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      url: 'https://www.proquest.com/docview/2814265127?sourcetype=Dissertations%20&%20Theses'
 
   - area: BA Political Science
     institution: University of Illinois at Chicago
@@ -80,14 +80,14 @@ education:
       Minored in Linguistics.  
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
+  - position: Research Assistant
+    company_name: Swann Lab at the University of Oregon
     company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2023-10-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+      Project: Testing Reliability of Sevo Clip Electrodes versus Conventional Research EEG Electrodes to Enable Diverse Science.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
