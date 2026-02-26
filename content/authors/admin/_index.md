@@ -7,7 +7,7 @@ authors:
   - admin
 
 # Name pronunciation (optional)
-name_pronunciation: 'tuh-my-uh lee-vee'
+#name_pronunciation: 'tuh-my-uh lee-vee'
 
 # Full name (for SEO)
 first_name: Tamaya
